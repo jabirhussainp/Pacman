@@ -1,6 +1,6 @@
 ﻿namespace Pacman
 {
-    partial class Form1
+    partial class About
     {
         /// <summary>
         /// Required designer variable.
@@ -30,15 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // About
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(509, 595);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.Click += new System.EventHandler(this.Form1_Click);
+            this.Name = "About";
+            this.Text = "About";
             this.ResumeLayout(false);
 
         }
@@ -46,4 +44,3 @@
         #endregion
     }
 }
-

@@ -29,24 +29,32 @@ namespace Pacman
 
         public void SetupGame(int Level)
         {
+            //Creating the maze in the form
             gamemaze.CreateMaze(this, Level);
 
+            //Set the matrix
             Tuple<int, int> PacmanStartCoordinates = gamemaze.InitialiseMazeGrid(Level);
-
+            
+            // Player details
             player.CreatePlayerDetails(this);
             player.CreateLives(this);
-
+            
+            //Creating the elements in the form
             formelements.CreateFormElements(this);
-
+            
+            //Creating the pacman food
             food.CreateFoodImages(this);
-
+            
+            //Creating the ghosts
             ghost.CreateGhostImage(this);
-
+            
+            //Creating the pacman in the form
             pacman.CreatePacmanImage(this, PacmanStartCoordinates.Item1, PacmanStartCoordinates.Item2);
         }
 
         protected override void OnKeyDown(KeyEventArgs e)
         {
+            //Movement of the pacman using keyboard
             base.OnKeyDown(e);
             switch (e.KeyCode)
             {
@@ -57,6 +65,10 @@ namespace Pacman
             }
         }
 
-
+        private void Form1_Click(object sender, EventArgs e)
+        {
+            Pacman pcmn = new Pacman();
+            
+        }
     }
 }

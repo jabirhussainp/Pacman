@@ -17,6 +17,7 @@ namespace Pacman
             private const int FoodScore = 10;
             private const int SuperFoodScore = 50;
 
+            // A method for create the food for pacman
             public void CreateFoodImages(Form form1)
             {
                 for (int y = 0; y < 30; y++)
@@ -45,7 +46,7 @@ namespace Pacman
                     }
                 }
             }
-
+            // A method to eat the food
             public void EatFood(int x, int y)
             {
                 // Eat food

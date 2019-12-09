@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -64,6 +65,7 @@ namespace Pacman
 
         public void MovePacman(int direction)
         {
+            
             bool canMove = check_direction(nxtDrctn);
             if (!canMove)
             {
@@ -133,6 +135,10 @@ namespace Pacman
         private void timer11_Tick(object sender, EventArgs e)
         {
             MovePacman(crntDrctn);
+            System.IO.Stream str = Properties.Resources.audio1;
+            SoundPlayer snd = new SoundPlayer(str);
+            snd.Play();
+
         }
 
         public void SetPacman()

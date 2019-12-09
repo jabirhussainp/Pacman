@@ -8,3 +8,13 @@ H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
 H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.exe
 H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.pdb
 H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.pdb
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.Start.resources
