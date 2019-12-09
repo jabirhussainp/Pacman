@@ -79,22 +79,25 @@ namespace Pacman
             }
             else
             {
-                Form1 frm = new Form1();
-                frm.Close();
-                GameOver govr = new GameOver();
+               // Form1 frm = new Form1();
+                //frm.Close();
                 
-                govr.Show();
-              // Application.Exit();
+                //GameOver govr = new GameOver();
+                
+               // govr.Show();
+                //frm.Close();
+                
+                 Application.Exit();
             }
         }
 
         public void LevelComplete()
         {
-            Form1 fr = new Form1();
+           /* Form1 fr = new Form1();
             fr.Visible = false;
             Won wn = new Won();
-            wn.Show();
-            //Application.Exit();
+            wn.Show();*/
+            Application.Exit();
         }
     }
 }
