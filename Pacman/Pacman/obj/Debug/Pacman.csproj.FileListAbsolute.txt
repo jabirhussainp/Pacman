@@ -1,0 +1,10 @@
+H:\Ass pacman\Pacman\Pacman\bin\Debug\Pacman.exe.config
+H:\Ass pacman\Pacman\Pacman\bin\Debug\Pacman.exe
+H:\Ass pacman\Pacman\Pacman\bin\Debug\Pacman.pdb
+H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
+H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.exe
+H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.pdb
+H:\Ass pacman\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
