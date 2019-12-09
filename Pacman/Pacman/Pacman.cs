@@ -19,7 +19,7 @@ namespace Pacman
         public int nxtDrctn = 0;
         public PictureBox PacmanImage = new PictureBox();
         private ImageList PacmanImages = new ImageList();
-        private Timer timer11 = new Timer();
+        public Timer timer11 = new Timer();
 
         private int imageOn = 0;
 

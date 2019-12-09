@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data;
 
 namespace Pacman
 {
@@ -78,13 +79,22 @@ namespace Pacman
             }
             else
             {
-                Application.Exit();
+                Form1 frm = new Form1();
+                frm.Close();
+                GameOver govr = new GameOver();
+                
+                govr.Show();
+              // Application.Exit();
             }
         }
 
         public void LevelComplete()
         {
-            Application.Exit();
+            Form1 fr = new Form1();
+            fr.Visible = false;
+            Won wn = new Won();
+            wn.Show();
+            //Application.Exit();
         }
     }
 }

@@ -130,11 +130,8 @@
   <data name="Ghost_0_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 0 4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ghost_51" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ghost_0_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 0 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ghost_3_41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 3 4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Pcmn_4_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pcmn 4 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,14 +139,8 @@
   <data name="maze" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\maze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Maze1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Board 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Ghost_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 3 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ghost_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 2 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ghost_3_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 3 4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,8 +148,8 @@
   <data name="Ghost_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 2 4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ghost_1_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 1 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Pcmn_4_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pcmn 4 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ghost_3_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 3 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -172,11 +163,17 @@
   <data name="Pcmn_2_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pcmn 2 0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Ghost_2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 2 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Ghost_1_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 1 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Food2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Food2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ghost_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 2 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ghost_1_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 1 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -187,14 +184,14 @@
   <data name="Pcmn_3_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pcmn 3 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Life" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Life.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Pcmn_2_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pcmn 2 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Pcmn_1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pcmn 1 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pcmn_1_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pcmn 1 0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ghost_1_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 1 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -205,32 +202,35 @@
   <data name="Ghost_0_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 0 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Pcmn_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pcmn 2 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Maze1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Board 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ghost_0_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 0 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Pcmn_1_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pcmn 1 0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ghost_3_41" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 3 4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ghost_0_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 0 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ghost_0_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 0 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="gameover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gameover.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pcmn_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pcmn 2 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Ghost_2_41" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 2 4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Life" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Life.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ghost_3_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 3 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Start" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Start.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ghost_2_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 2 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Pcmn_4_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pcmn 4 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ghost_3_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 3 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ghost_0_41" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 0 4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -238,8 +238,8 @@
   <data name="Ghost_0_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 0 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ghost_2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 2 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ghost_1_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 1 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Pcmn_3_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pcmn 3 0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -247,14 +247,14 @@
   <data name="Ghost_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 5.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ghost_3_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 3 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ghost_0_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 0 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="audio1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\audio1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Ghost_2_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ghost 2 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ghost_3_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 3 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ghost_41" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -286,16 +286,22 @@
   <data name="Ghost_1_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 1 4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Ghost_51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Ghost_0_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ghost 0 2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Pcmn_2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pcmn 2 1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Ghost_2_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ghost 2 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Pcmn_1_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pcmn 1 3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Start" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Start.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="won" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\won.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

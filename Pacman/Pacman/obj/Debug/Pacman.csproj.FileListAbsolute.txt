@@ -18,3 +18,6 @@ C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.csproj.G
 C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.exe
 C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.pdb
 C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.Start.resources
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.About.resources
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.GameOver.resources
+C:\Users\ARUN MK\Documents\GitHub\Pacman\Pacman\Pacman\obj\Debug\Pacman.Won.resources
